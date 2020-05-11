@@ -1,5 +1,8 @@
 # UNAM_EstadisticaProbabilidad
-Notas sobre un curso muy elemental de Estadistística con alguna noción de Probabilidad. Impartido online por la UNAM. 
+Notas sobre un curso muy elemental de Estadistística con alguna noción de Probabilidad. Impartido online por UNAM. En el repositorio se recogen: notas elaboradas durante el curso, actividades propios efectuados para el mismo, etc.
+
+> Las imagenes estan subidas en diferentes calidades, para más comodidad, descargar el fichero pdf `DocumentoFinalApuntesCurso.pdf` de **2'6MB**.
+
 ## Resumen rápido:
 | Semana | Contenido |
 |-------------|-------------------------------|
