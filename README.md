@@ -1,5 +1,13 @@
 # UNAM_EstadisticaProbabilidad
 Notas sobre un curso muy elemental de Estadistística con alguna noción de Probabilidad. Impartido online por la UNAM. 
+## Resumen rápido:
+| Semana | Contenido |
+|-------------|-------------------------------|
+|**week_01**| Variable, Muestreo, representaciones tabulares, frecuencias absolutas, frecuencias relativas, frecuencias absolutas acumuladas, representaciones graficas, agrupación de datos, histograma, polígono de frecuencias, ojiva, gráfico de caja, simetría, datos atípicos, grafica de variables cualitativas.|  
+|**week_02**| medidas descriptivas de tendencia, medidas de tendencia central, mediana, moda, media,  interpretación de las medidas de tendencia central, clasificación de los cuantiles, medidas descriptivas de variabilidad, varianza, desviación estándar, amplitud, coeficiente de variación, regla empírica.|
+|**week_03**| representación estadística, análisis de datos, variables numéricas conjuntas, recta de ajuste, construcción recta de ajuste, coeficiente de correlación, limitaciones de los modelos lineales, estimaciones, dos variables conjuntas ,tablas de contingencia, representación para datos con dos variables conjuntas.|
+|**week_04**| fenómeno aleatorio, espacio muestral, evento, eventos compuestos, tablas de doble entrada, probabilidad unión dos eventos, axiomas de Kolmogorov, probabilidad condicional, independencia de la probabilidad de sucesos, verificación independencia, formulas elementales probabilidad.|
+
 # Notas de un curso elemental de Estadística 
 * *Nombre Archivo:* `2020:04:02:Dia_12:41:30:Hora`
     * *Palabra clave:* `Meme`
