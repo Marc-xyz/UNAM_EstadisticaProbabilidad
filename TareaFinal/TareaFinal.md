@@ -172,3 +172,5 @@ P(PapasGrandes)*P(RefrescoGrande)=0.055112
 P((PapasGrandes) y (RefrescoGrande))=0.64000
 Por tanto no son eventos independientes.
 >Interpretación resultado: Utlizamos el test de independència que se puede ver el los calculós. Como 0.055112 es suficientemente diferente de 0.64000, podemos concluir que los eventos no son del todo eventos independientes. 
+
+<!--Subir un link al drive si exigen fotos.-->
