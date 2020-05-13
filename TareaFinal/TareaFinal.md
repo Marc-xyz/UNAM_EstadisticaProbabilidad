@@ -24,7 +24,6 @@ https://codap.concord.org/releases/latest/static/dg/en/cert/index.html#shared=10
 ## Documento final
 
 ### Ejercicio 1
-
 *  Descripción Variable Carne:
     - mediana=90.03 gramos
     - promedio=media= 90.02 gramos
@@ -42,7 +41,42 @@ En el diagrama o gráfico  de caja podemos observar que el valor del primer cuar
 * Descripción variables conjuntas (continuas) Carne y Salsa:
 Observando el diagrama de dispersión (también llamado, nube de puntos) podemos considerar la idoneidad de efectuar una aproximación por un modelo lineal (es decir, aproximar por una recta de ajuste o regresión). Si calculamos el coeficiente de correlación (o coeficiente de Pearson), que en este caso es de 0.88, concluimos que si que es coherente aproximar el modelo por una recta (modelo lineal). La ecuación  de la recta de ajuste en el eje OY gramos de salsa y  en el eje OX gramos de carne es y=0.1011*x-3.5, todo en unidades de gramos.
 
-* Descripción variables conjuntas (discretas) tamaño papas y tamaño refresco 
+* Descripción tamaño papas:
+Para hacer la descripción podemos enumerar las frecuencias absolutas y relativas de cada uno de los tres eventos de mayor frecuencia a menor:
+
+- Papas tamaño Medianas: 247 de 500 (49%)
+- Papas tamaño Grandes: 166 de 500 (33%)
+- Papas tamaño Chicas: 87 de 500 (17%)
+
+(Casi la mitad de los clientes de la muestran piden Papas de tamaño Mediano)
+
+* Descripción tamaño refresco:
+Para hacer la descripción podemos enumerar las frecuencias absolutas y relativas de cada uno de los tres eventos de mayor frecuencia a menor:
+
+- Refresco tamaño Mediano: 250 de 500 (50%)
+- Refresco tamaño Chico: 83 de 500 (33%)
+- Refresco tamaño Grande: 167 de 500 (17%)
+
+(La mitad de los clientes de la muestran piden Refresco de tamaño Mediano)
+(Los porcentajes entre Papas y Refrescos curiosamente similares)
+
+* Descripción variables conjuntas (discretas) tamaño papas y tamaño refresco:
+Para hacer la descripción enumeramos los valores de mayor freqüencia a menos frequencioa de las diferentes 9 posibles combinaciones de tamaños de patatas (papas) fritas y tamaños de refrescos:
+
+27%  (134 de 500) seleccionaron Papas tamaño Medianas y Refresco tamaño mediano
+16%  (80 de 500) seleccionaron Papas tamaño Grandes y Refresco tamaño mediano
+16%  (78 de 500) seleccionaron Papas tamaño Medianas  y Refresco Chico tamaño 
+
+11%  (54 de 500) seleccionaron Papas tamaño Grandes  y Refresco Chico tamaño 
+7.2% (36 de 500) seleccionaron Papas tamaño Chicas  y Refresco Mediano tamaño 
+7%   (35 de 500) seleccionaron Papas tamaño Chicas y Refresco tamaño Chico 
+
+7%   (35 de 500) seleccionaron Papas tamaño Medianas y Refresco tamaño Grande 
+6.4% (32 de 500) seleccionaron Papas tamaño Grandes y Refresco tamaño 
+3.2% (16 de 500) seleccionaron Papas tamaño Chicas  y Refresco tamaño Grande 
+
+(La combinación más frecuente con menos de un 30% de los clientes de la muestra piden conjuntamente Papas y refresco Grandes).
+
 
 ### Ejercicio 2
 * Para cada una de las siguientes preguntas, escribe el resultado, agrega
